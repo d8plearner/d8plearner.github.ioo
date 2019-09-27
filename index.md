@@ -1,3 +1,3 @@
 ### RSA Encryption
 ---
-An article named [Encrypt it yourself](/pdf/Encrypt-It-Yourself.pdf) I have written a while ago explaining RSA encryption and the mathematics behind without any prerequisites.
+An article named [Encrypt it yourself](/pdf/Encrypt-It-Yourself.pdf) I have written a while ago explaining RSA encryption and the mathematics behind without any prerequisites. Here is its corresponding [github repository](https://github.com/d8plearner/textbook-RSA), containing a demo code written in Java.
