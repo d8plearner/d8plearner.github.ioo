@@ -1,4 +1,7 @@
+This is going to be a series of WIP posts on neuroscience, in which I will try to summarize a neuroscience textbook I am reading at this moment called ["Neuroscience: Exploring the brain"](https://www.amazon.fr/Neuroscience-Exploring-Mark-F-Bear/dp/0781760038) by [Mark F. Bear](https://en.wikipedia.org/wiki/Mark_Bear), [Barry W. Connors](https://vivo.brown.edu/display/bconnors) and [Michael A. Paradiso](https://en.wikipedia.org/wiki/Michael_Paradiso).
+
 ## A bit of history
+
 - Hippocrates (460–379 B.C.E.), the father of Western medicine, believed that the brain was not only involved in sensation but was also the seat of intelligence.
 
 - The famous Greek philosopher Aristotle (384–322 B.C.E.) clung to the belief that the heart was the center of intellect. What function did Aristotle reserve for the brain? He believed it was a radiator for cooling blood that was overheated by the seething heart. The rational temperament of humans was thus explained by the large cooling capacity of our brain.
@@ -10,7 +13,7 @@
 - The cerebrum lobes:
 
 	<p align='center'>
-		<img align="center" src='./figures/cerebrum_lobes.png'/>
+		<img align="center" src='../assets/images/neuroscience/cerebrum_lobes.png'/>
 	</p>
 
 	- The **deep Sylvian fissure**, dividing <u>the frontal lobe</u> from <u>the temporal lobe</u>.
@@ -30,7 +33,7 @@ wire carrying information in a different direction.
 - Around 1810, Scottish physician Charles Bell and French physiologist François Magendie concluded that within each nerve is a mixture of many wires, some of which bring information into the brain and spinal cord and others that send information out to the muscles.
 
 - In figure below, incoming sensory fibers (red ) and outgoing motor fibers (blue) divide into spinal roots where the nerves attach to the spinal cord. Bell and Magendie found that the **ventral roots** contain only <u>motor fibers</u> and the **dorsal roots** contain only <u>sensory fibers</u>.
-	<p align='center'>![alt text](./figures/ventral_dorsal_roots.png)</p>
+	<p align='center'>![alt text](../assets/images/neuroscience/ventral_dorsal_roots.png)</p>
 	
 - The approach, in which parts of the brain are systematically destroyed to determine their function, is called **the experimental ablation method.**
 
@@ -41,7 +44,7 @@ wire carrying information in a different direction.
 - The French neurologist Paul Broca (1824–1880) was presented with a patient who could understand language but could not speak. After the man’s death in 1861, Broca carefully examined his brain and found a lesion in the left frontal lobe. Based on this case and several others like it, Broca concluded that this region of the human cerebrum, **Broca's area**, was specifically responsible for the production of speech. The lesion that produced this deficit is circled in figure below.
 
 	<p align='center'>
-		<img align="center" src='./figures/broca_s area.png'/>
+		<img align="center" src='../assets/images/neuroscience/broca_s area.png'/>
 	</p>
 
 - In 1839, German zoologist Theodor Schwann proposed what came to be known as **the cell theory**: All tissues are composed of microscopic units called cells.
@@ -97,7 +100,7 @@ is called the *reductionist approach*. The size of the unit of study defines wha
 surrounding the nuclei of neurons:
 
 	<p align='center'>
-		<img align="center" src='./figures/nissl_stain.png'/>
+		<img align="center" src='../assets/images/neuroscience/nissl_stain.png'/>
 	</p>
 
 - The **Nissl stain** is extremely useful for two reasons: It distinguishes between neurons and glia, and it enables histologists to study the arrangement, or cytoarchitecture , of neurons in different parts of the brain.
@@ -105,13 +108,13 @@ surrounding the nuclei of neurons:
 - In 1873, Italian histologist Camillo Golgi (1843–1926) proposed a more advanced stain. He discovered that soaking brain tissue in a silver chromate solution, now called the **Golgi stain**, makes a small percentage of neurons become darkly colored in their entirety.
 
 	<p align='center'>
-		<img align="center" src='./figures/golgi_stain.png'/>
+		<img align="center" src='../assets/images/neuroscience/golgi_stain.png'/>
 	</p>
 
 - The basic parts of the neuron are: a central region that contains the cell nucleus and numerous thin tubes that radiate away from the central region.
 
 	<p align='center'>
-		<img align="center" src='./figures/neuron.png'/>
+		<img align="center" src='../assets/images/neuroscience/neuron.png'/>
 	</p>
 
 - The swollen region containing the cell nucleus has several names that are used interchangeably: **cell body**, **soma** (plural:somata), and **perikaryon** (plural: perikarya).
@@ -125,7 +128,7 @@ surrounding the nuclei of neurons:
 - A Spanish contemporary Santiago Ramón y Cajal (1852–1934). used the Golgi stain to work out the circuitry of many regions of the brain:
 
 	<p align='center'>
-		<img align="center" src='./figures/cajal_drawing.png'/>
+		<img align="center" src='../assets/images/neuroscience/cajal_drawing.png'/>
 	</p>
 
 - The letters label the different elements Cajal identified in an area of the human cerebral cortex that controls voluntary movement.
@@ -142,7 +145,7 @@ are fused together to form a continuous reticulum, or network, similar to the ar
 - Neurites below were reconstructed from a series of images made using an electron microscope. The axon (colored yellow) is in contact with a dendrite (colored blue).
 
 	<p align='center'>
-		<img align="center" src='./figures/neurites_in_contact.png'/>
+		<img align="center" src='../assets/images/neuroscience/neurites_in_contact.png'/>
 	</p>
 
 
@@ -152,7 +155,7 @@ are fused together to form a continuous reticulum, or network, similar to the ar
 parts: *the soma*, *the dendrites*, and *the axon*.
 
 	<p align='center'>
-		<img align="center" src='./figures/neuron_structure.png'/>
+		<img align="center" src='../assets/images/neuroscience/neuron_structure.png'/>
 	</p>
 
 - The inside of the neuron is separated from the outside by *the neuronal membrane*.
@@ -185,7 +188,7 @@ called **organelles**.
 - The **cytoskeleton**, which is a complex, *dynamic* network of interlinking protein filaments,  is what gives the cell its shape and mechanical resistance to deformation. It is essentially composed of *microtubules*, *microfilaments*, and *neurofilaments*. More details on these components are to be found in page 39 of the book.
 
 	<p align='center'>
-		<img align="center" src='./figures/cytoskeleton.png'/>
+		<img align="center" src='../assets/images/neuroscience/cytoskeleton.png'/>
 	</p>
 
 - Structures explored so far, that are *the soma*, *organelles*, *membrane*, and *cytoskeleton* are not unique to neurons but are found in all the cells in our body.
@@ -193,7 +196,7 @@ called **organelles**.
 - **The axon** is a structure found only in neurons and highly specialized for the transfer of information over distances in the nervous system.
 
 	<p align='center'>
-		<img align="center" src='./figures/axon_collaterals.png'/>
+		<img align="center" src='../assets/images/neuroscience/axon_collaterals.png'/>
 	</p>
 
 - The axon begins with a region called the **axon hillock** , which tapers away from the soma to form the initial segment of the **axon proper**.
@@ -219,7 +222,7 @@ called **organelles**.
 - This point of contact is called the **synapse**.
 
 	<p align='center'>
-		<img align="center" src='./figures/synapse.png'/>
+		<img align="center" src='../assets/images/neuroscience/synapse.png'/>
 	</p>
 
 - The synapse has two sides: *presynaptic* and *postsynaptic*. These names indicate the usual direction of information flow from “pre” to “post”.
@@ -247,7 +250,7 @@ called **organelles**.
 - Sometimes axons form synapses at swollen regions along their length and then continue on to terminate elsewhere. Such swellings are called **boutons en passant**.
 
 	<p align='center'>
-		<img align="center" src='./figures/boutons_en_passant.png'/>
+		<img align="center" src='../assets/images/neuroscience/boutons_en_passant.png'/>
 	</p>
 
 - When a neuron makes synaptic contact with another cell, it is said to innervate that cell, or to provide **innervation**.
@@ -261,7 +264,7 @@ called **organelles**.
 - Wallerian degeneration occurs because the normal flow of materials from *the soma* to *the axon terminal* is interrupted. This movement of material down the axon is called **axoplasmic transport**.
 
 	<p align='center'>
-		<img align="center" src='./figures/axoplasmic_transport.png'/>
+		<img align="center" src='../assets/images/neuroscience/axoplasmic_transport.png'/>
 	</p>
 
 - Material is enclosed within **vesicles**, which then “walk down” the *microtubules* of the axon. 
@@ -281,7 +284,7 @@ terminal to soma, is called **retrograde transport**.
 (**Neurons** have been made to fluoresce **green**. **Axon terminals** have been made to fluoresce **orange-red**. The **nuclei** are stained to fluoresce **blue**.)
  
  	<p align='center'>
-		<img align="center" src='./figures/dendrites.png'/>
+		<img align="center" src='../assets/images/neuroscience/dendrites.png'/>
 	</p>
 
 - The dendritic membrane under the synapse (the postsynaptic membrane) has many specialized protein molecules called **receptors** that detect the neurotransmitters in the synaptic cleft.
@@ -289,7 +292,7 @@ terminal to soma, is called **retrograde transport**.
 - The dendrites of some neurons are covered with specialized structures called **dendritic spines** that receive some types of synaptic input.
 
  	<p align='center'>
-		<img align="center" src='./figures/spines.png'/>
+		<img align="center" src='../assets/images/neuroscience/spines.png'/>
 	</p>
 
 - Spines look like little punching bags that hang off the dendrite.
@@ -309,7 +312,7 @@ terminal to soma, is called **retrograde transport**.
 	- Most neurons in the brain are multipolar.
 
 	<p align='center'>
-		<img align="center" src='./figures/classification_neurites.png'/>
+		<img align="center" src='../assets/images/neuroscience/classification_neurites.png'/>
 	</p>
 	
 - <u>Dendrites:</u> Classification according to the shape of the dendritic tree and/or to whether their dendrites have spines.
@@ -323,8 +326,8 @@ terminal to soma, is called **retrograde transport**.
 	- In the cerebral cortex, all *pyramidal cells* are *spiny*. *Stellate cells*, on the other hand, can be either *spiny* or *aspinous*.
 	
 	<p align='center'>
-		<img align="center" src='./figures/stellate_cell.png'/>
-		<img align="center" src='./figures/pyramidal_cell.png'/>
+		<img align="center" src='../assets/images/neuroscience/stellate_cell.png'/>
+		<img align="center" src='../assets/images/neuroscience/pyramidal_cell.png'/>
 	</p>
 
 - <u>Connections:</u> 
@@ -364,7 +367,7 @@ terminal to soma, is called **retrograde transport**.
 - The most numerous glia in the brain are called **astrocytes**.
 
 	<p align='center'>
-		<img align="center" src='./figures/astrocyte.png'/>
+		<img align="center" src='../assets/images/neuroscience/astrocyte.png'/>
 	</p>
 
 - These cells fill most of the spaces between neurons.
@@ -376,7 +379,7 @@ terminal to soma, is called **retrograde transport**.
 - For e.g. astrocytes envelop synaptic junctions in the brain, thereby restricting the spread of neurotransmitter molecules that have been released.
 
 	<p align='center'>
-		<img align="center" src='./figures/astrocyte_synapse.png'/>
+		<img align="center" src='../assets/images/neuroscience/astrocyte_synapse.png'/>
 	</p>
 
 - Astrocytes also have special proteins in their membranes that actively remove many neurotransmitters from the synaptic cleft.
@@ -394,13 +397,13 @@ terminal to soma, is called **retrograde transport**.
 - This is how *myelinated optic nerve fibers* look like when cut in cross section.
 
 	<p align='center'>
-		<img align="center" src='./figures/myelin.png'/>
+		<img align="center" src='../assets/images/neuroscience/myelin.png'/>
 	</p>
 
 - Because the axon fits inside the spiral wrapping like a sword in its scabbard, the name **myelin sheath** describes the entire covering.
 
 	<p align='center'>
-		<img align="center" src='./figures/oligodendroglial_cell.png'/>
+		<img align="center" src='../assets/images/neuroscience/oligodendroglial_cell.png'/>
 	</p>
 
 - The sheath is interrupted periodically, leaving a short length where the axonal membrane is exposed. This region is called **a node of Ranvier**.
