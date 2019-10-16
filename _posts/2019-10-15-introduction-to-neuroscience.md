@@ -75,7 +75,7 @@ is called the *reductionist approach*. The size of the unit of study defines wha
 - A lot is known about the function of the brain. But what we know is insignificant compared with what is still left to be learned.
 
 
-# Brain cells: Neurons and Glia
+## Brain cells: Neurons and Glia
 
 - All tissues and organs in the body consist of cells. The specialized functions of cells and how they interact determine the functions of organs.
 
@@ -436,4 +436,4 @@ terminal to soma, is called **retrograde transport**.
 
 - The elaborate structure of the dendritic tree appears ideally suited for receiving incoming information, and indeed, this is where most of the synapses are formed with the axons of other neurons.
 
-# The Neuronal Membrane at Rest
+## The Neuronal Membrane at Rest
