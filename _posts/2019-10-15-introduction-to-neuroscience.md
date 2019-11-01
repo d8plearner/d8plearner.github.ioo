@@ -1,4 +1,4 @@
-This is going to be a series of WIP posts on neuroscience, in which I will try to summarize a neuroscience textbook I am reading at the moment called ["Neuroscience: Exploring the brain"](https://www.amazon.fr/Neuroscience-Exploring-Mark-F-Bear/dp/0781760038) by [Mark F. Bear](https://en.wikipedia.org/wiki/Mark_Bear), [Barry W. Connors](https://vivo.brown.edu/display/bconnors) and [Michael A. Paradiso](https://en.wikipedia.org/wiki/Michael_Paradiso).
+This is going to be a series of WIP posts that serve as an introduction to neuroscience. The ultimate goal being to gain a better understanding of how the brain works and makes its computations and eventually try to devise its mathematical model.
 
 ## A bit of history
 
