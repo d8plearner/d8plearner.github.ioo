@@ -9,9 +9,8 @@ layout: default
       &#8226; <span class="post-meta__tags">on {% for tag in page.tags %}<a href="{{ site.baseurl }}/tags/#{{ tag }}">{{ tag }}</a>{% if forloop.last == false %}, {% endif %}{% endfor %}</span>
       {% endif %}
     </div>
-    <h1 class="post-title">{{ page.title }}</h1>
   </header>
-
+  {% include mathjax.html %}
   <section class="post">
     {{ content }}
   </section>
