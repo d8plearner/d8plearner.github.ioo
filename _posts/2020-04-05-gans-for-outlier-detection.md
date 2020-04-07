@@ -1,3 +1,6 @@
+---
+mathjax: true
+---
 <h1 align='center'>Generative Adversarial Networks for unsupervised outlier detection</h1>
 
 ## Introduction
